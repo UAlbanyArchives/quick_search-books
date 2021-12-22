@@ -1,0 +1,11 @@
+en:
+  mathes_search:
+    display_name: "Rare Books"
+    short_display_name: "Rare Books"
+    search_form_placeholder: "Search Rare Books"
+    module_callout: "Search Rare Books"
+    error_service_message: "searching Rare Books"
+    no_results_service_message: "a different search"
+    no_results_link: "https://archives.albany.edu/books?search_field=all_fields"
+    loaded_link: "https://archives.albany.edu/books?q="
+

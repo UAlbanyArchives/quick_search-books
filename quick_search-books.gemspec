@@ -7,11 +7,11 @@ require "quick_search/books/version"
 Gem::Specification.new do |spec|
   spec.name        = "quick_search-books"
   spec.version     = QuickSearch::Books::VERSION
-  spec.authors     = ["Greg Wiedeman"]
+  spec.authors     = ["Gregory Wiedeman"]
   spec.email       = ["gregory.wiedeman1@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of QuickSearch::Books."
-  spec.description = "TODO: Description of QuickSearch::Books."
+  spec.homepage    = "https://archives.albany.edu"
+  spec.summary     = "Searcher for Rare Books collections"
+  spec.description = "Plugin for NCSU QuickSearch bento-style search results app that searches a blacklight app that discovers rare books from UAlbany's collections."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
